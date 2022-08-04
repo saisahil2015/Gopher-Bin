@@ -4,7 +4,7 @@ Code for building a smart bin that uses Convolutional Neural Networks to segrega
 
 This was created by me and my team and as a self-driven, independent project for SASE Labs.
 
-The code has been developed using Python, Tensorflow, and Tesnforflow Lite, along with the Raspberry Pi and has a custom-trained CNN(Convulational Neural Network) model by us.
+The code has been developed using Python, Tensorflow, and Tensorflow Lite, along with the Raspberry Pi and has a custom-trained CNN(Convulational Neural Network) model by us.
 
 The project was built from November 2021 - April 2022. 
 
