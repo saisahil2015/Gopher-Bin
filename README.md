@@ -6,3 +6,7 @@ This was created by me and my team and as a self-driven, independent project for
 
 The code has been developed using Python, Tensorflow, and Tesnforflow Lite, along with the Raspberry Pi and has a custom-trained CNN(Convulational Neural Network) model by us.
 
+The project was built from November 2021 - April 2022. 
+
+A presentation related to my team, the Vision team, and the other teams that I lead has been added to the repository.
+
