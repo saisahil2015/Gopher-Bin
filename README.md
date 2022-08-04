@@ -8,5 +8,4 @@ The code has been developed using Python, Tensorflow, and Tesnforflow Lite, alon
 
 The project was built from November 2021 - April 2022. 
 
-A presentation related to my team, the Vision team, and the other teams that I lead has been added to the repository.
 
